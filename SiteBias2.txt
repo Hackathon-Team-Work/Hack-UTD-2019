@@ -1,0 +1,15 @@
+Guardian,-1
+Vox,-1
+Atlantic,-1
+Buzzfeed News,-1
+New York Post,1
+Talking Points Memo,-1
+New York Times,-1
+Breitbart,1
+Reuters,0
+National Review,1
+Washington Post,-1
+NPR,0
+Business Insider,0
+CNN,-1
+Fox News,1
